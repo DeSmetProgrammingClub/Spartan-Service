@@ -8,4 +8,4 @@ You can download notepad++ from https://notepad-plus-plus.org/download/v7.5.1.ht
 Please download and extract the zip file then run the "Setup and Instructions.bat" file to help install the files.
 Email Justin McNiel (jmcniel@desmet.org) or Mr. Plein (tplein@desmet.org) if you have any additional instructions.
 
-Any changes should first be uploaded to the "tentative" branch before being checked by multiple people and sent to the "working" branch.
+Any changes should first be uploaded to the "Tentative" branch before being checked by multiple people and sent to the "Working" branch.
