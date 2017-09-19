@@ -1,8 +1,5 @@
 @echo off
-goto 1
 robocopy SpartanService C:\xampp\htdocs /E
-xampInstall.exe
-pause
 :1
 echo ========================================================================================================================
 echo All of the files pertaining to the SpartanService website are now in C:\xampp\htdocs\SpartanService.
